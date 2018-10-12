@@ -6,12 +6,12 @@ My name is Laura Arias,
   
    ## _My Scheduele:_   
    * Gym 
-     *  Tavarez
+     * Tavarez
    * Software Engineering 
      * Mueller 
    * AP English
      * Karvunis
-   * AP US History  
+   * . AP US History  
      * Kirkendoll
    * AP Spanish   
      * Murray 
@@ -23,4 +23,8 @@ My name is Laura Arias,
   
 
 #### This is my [github page](https://github.com/lauraa0055)
+
+1. This is my [first-repo](https://github.com/lauraa0055/first-repo)
+2. This is my [second-repo](https://github.com/lauraa0055/second-repo)
+
    
