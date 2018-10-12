@@ -5,13 +5,22 @@ My name is Laura Arias,
    I go to Highschool of Telecommunication Arts and Technology. 
   
    ## _My Scheduele:_   
-    1. Gym   
-    2. Software Engineering 
-    3. AP English   
-    4. AP US History   
-    5. AP Spanish   
-    6. Pre Calculus 
-    7. Earth Science   
-    8. Lunch   
+   * Gym 
+     *  Tavarez
+   * Software Engineering 
+     * Mueller 
+   * AP English
+     * Karvunis
+   * AP US History  
+     * Kirkendoll
+   * AP Spanish   
+     * Murray 
+   * Pre Calculus 
+     * Ross
+   * Earth Science   
+     * Giannakakis
+   * Lunch   
   
+
+#### This is my [github page](https://github.com/lauraa0055)
    
